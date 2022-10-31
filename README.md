@@ -16,6 +16,8 @@
 
 * 3 types of Login Systems have been implemented: Email & Password Login, Google Login and Github Login.
 
+* Authentication and Authorization has been carried out using Firebase.
+
 * There is a sidebar for navigation and also cards of courses on the course page.
 
 * Private Route has been utilized on the premium contents course page.
