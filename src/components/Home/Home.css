@@ -1,0 +1,23 @@
+body {
+    color: #02395D;
+}
+
+.home {
+    margin: 100px;
+}
+
+.banner img {
+    border: 2px solid #02395D;
+}
+
+.home-title {
+    font-size: 40px;
+}
+
+.home-description-section {
+    margin-top: 55px;
+    background-color: rgba(2, 57, 93, 0.9);
+    color: #ffffff;
+    padding: 25px;
+    border-radius: 20px;
+}

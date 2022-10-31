@@ -1,0 +1,15 @@
+.switch {
+    transform: translateY(-8px) translateX(-4px);
+    font-size: 19px;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+#light label {
+    color: #ffffff;
+}
+
+#dark label {
+    background-color: black;
+    color: #ffffff;
+}

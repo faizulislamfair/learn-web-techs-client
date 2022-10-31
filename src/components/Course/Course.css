@@ -1,0 +1,19 @@
+.course {
+    border: 2px solid #02395D;
+    border-radius: 5px;
+    margin: 15px;
+}
+
+.course img {
+    background-color: #cbd5db;
+}
+
+.card-body {
+    padding: 10px;
+    align-items: center;
+}
+
+
+.card-body button {
+    font-size: 25px;
+}
